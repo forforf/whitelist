@@ -1,4 +1,3 @@
 whitelist
 =========
-
-Simple web server for distributing public/private tokens securely.
+Very small class for filtering by a whitelist
