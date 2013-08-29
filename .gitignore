@@ -19,3 +19,8 @@ doc/
 
 #IDE
 .idea/
+
+# Gem so don't require specific environments
+Gemfile.lock
+.ruby-gemset
+.ruby-version
