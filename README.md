@@ -32,7 +32,6 @@ whitelist.check("candace@example.com"
 
 ```
 
-
 Example Usage with Proc
 -----------------------
 
@@ -69,4 +68,3 @@ whitelist.check("candace@example.com"
 #=> false
 
 ```
-
