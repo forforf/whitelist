@@ -12,6 +12,7 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{Simple whitelist checker}
   gem.homepage      = ""
   gem.add_development_dependency "rspec"
+  gem.add_development_dependency "psych"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
